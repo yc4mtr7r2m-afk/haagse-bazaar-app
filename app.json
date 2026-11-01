@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Haagse Bazaar",
+    "slug": "haagse-bazaar-app",
+    "scheme": "haagsebazaar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "nl.haagsebazaar.bestelapp"
+    },
+    "android": {
+      "package": "nl.haagsebazaar.bestelapp",
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
